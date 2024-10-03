@@ -5,3 +5,8 @@
 - recursion.cpp 反转打印链表，递归实现，链表并为反转
 - reversal_link_list 反转列表，递归实现
 - bothway_list 双向链表
+- stack_array 数组实现栈
+- stack_link 链表实现栈
+- stack_reversal 栈实现反转链表
+- stack_suffix_calculator 栈实现后缀表达式计算器
+- queue_array 队列数组实现
